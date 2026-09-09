@@ -1,0 +1,18 @@
+# Arquivos compilados
+out/
+*.class
+
+# PDFs gerados automaticamente
+receitas/*.pdf
+
+# Configurações e credenciais
+.env
+*.env
+*.properties
+
+# Configurações temporárias
+*.log
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
